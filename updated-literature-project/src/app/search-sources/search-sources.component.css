@@ -1,3 +1,19 @@
+
+.header {
+    text-align: center;
+    font-size: 36px;
+    padding: 20px;
+    color: #333;
+    background-color: #f8f9fa;
+  }
+   
+  .search-form {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+
 .search-input, .output-format-select {
     width: 100%;
     padding: 10px;
